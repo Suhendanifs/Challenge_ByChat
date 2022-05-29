@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "581062862959",
+    "project_id": "bychat-352fc",
+    "storage_bucket": "bychat-352fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581062862959:android:ede1e218738839c8a2859a",
+        "android_client_info": {
+          "package_name": "com.bychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581062862959-nkb9t2s1qb767v5dnnkrmf2c5j40q2n9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bychat",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "581062862959-ctf8v84prhtga9j15iodqfqdchv8at7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsvztK64oWkjuCSw53t-OVozRudr8bBaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581062862959-ctf8v84prhtga9j15iodqfqdchv8at7e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
